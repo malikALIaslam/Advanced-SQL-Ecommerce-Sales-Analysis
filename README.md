@@ -1,4 +1,4 @@
-# 🇵🇰 Pakistan Ecommerce Sales Analysis | Advanced SQL Project
+# Pakistan Ecommerce Sales Analysis | Advanced SQL Project
 
 ## 📌 Project Overview
 
